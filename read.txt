@@ -13,8 +13,5 @@ ok;
 
 test branch issue!
 
-<<<<<<< HEAD
 master,
-=======
 branch;
->>>>>>> issue
